@@ -1,5 +1,22 @@
-### Hi, I'm Torgny 👋
-
-- 👯 I’m looking to collaborate on CircuitPython, ESPHome, Home Assistant, Arduino
-- 💬 Ask me about Node.js, Python, Django, Ruby, Rails, Jekyll
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/torgnybjers/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bmtx0%2Fk6xSqSV2LrA7Flqbg%3D%3D)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tbjers&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tbjers&show_icons=true&bg_color=FFFFFFFF&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tbjers&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tbjers&show_icons=true&theme=dark&layout=compact&bg_color=00000000&hide_border=true&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tbjers&show_icons=true&layout=compact&bg_color=FFFFFFFF&hide_border=true&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbjers&show_icons=true&layout=compact&langs_count=8" />
+</picture>
